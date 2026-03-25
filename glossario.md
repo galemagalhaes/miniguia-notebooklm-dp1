@@ -46,17 +46,17 @@
 *   **Subdomínio Genérico:** Problema comum já resolvido pela indústria que pode ser atendido por soluções padronizadas ou prontas.
 *   **Subdomínio de Suporte:** Parte necessária para a operação do negócio, mas que não oferece diferenciação estratégica direta.
 *   **Upstream-Downstream:** Relação de direção onde as ações do grupo "a montante" (upstream) influenciam o sucesso do grupo "a jusante" (downstream).
-
-*   ### Termos fundamentais para o estudante iniciante:
-*   **Agregado (*Aggregate*):** 
-*   **Bounded Context (Contexto Delimitado):** 
-*   **Camada Anticorrupção (ACL):** 
-*   **Core Domain (Domínio Principal):** 
-*   **Domain Expert (Especialista de Domínio):** 
-*   **Entidade (*Entity*):** 
-*   **Event Storming:** 
-*   **Linguagem Ubíqua:** 
-*   **Mapa de Contexto (*Context Map*):** 
-*   **Objeto de Valor (*Value Object*):** 
-*   **Raiz de Agregado (*Aggregate Root*):** 
-*   **Repositório (*Repository*):** 
+---
+   ### Termos fundamentais para o estudante iniciante:
+*   **Agregado (*Aggregate*)** 
+*   **Bounded Context (Contexto Delimitado)** 
+*   **Camada Anticorrupção (ACL)** 
+*   **Core Domain (Domínio Principal)** 
+*   **Domain Expert (Especialista de Domínio)** 
+*   **Entidade (*Entity*)** 
+*   **Event Storming** 
+*   **Linguagem Ubíqua** 
+*   **Mapa de Contexto (*Context Map*)** 
+*   **Objeto de Valor (*Value Object*)** 
+*   **Raiz de Agregado (*Aggregate Root*)** 
+*   **Repositório (*Repository*)** 
